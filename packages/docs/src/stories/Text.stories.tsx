@@ -1,4 +1,4 @@
-import { Text, TextProps } from '@ignite-ui/react/src/components/Box'
+import { Text, TextProps } from '@ignite-ui/react/src'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {
@@ -14,7 +14,7 @@ export const Primary: StoryObj<TextProps> = {}
 
 export const CustomTag: StoryObj<TextProps> = {
   args: {
-    children: 'String text',
+    children: 'Strong text',
     as: 'strong',
   },
 }
