@@ -9,3 +9,5 @@ export * from './components/avatar'
 export * from './components/Button'
 
 export * from './components/textInput/index'
+
+export * from './components/TextArea'
