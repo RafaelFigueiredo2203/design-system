@@ -13,3 +13,5 @@ export * from './components/textInput/index'
 export * from './components/TextArea'
 
 export * from './components/checkBox/index'
+
+export * from './components/multiStep/index'
