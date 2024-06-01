@@ -1,4 +1,4 @@
-import { Button, ButtonProps } from '@ignite-ui/react/src'
+import { Button, ButtonProps } from '@junior-ui/react/src'
 import { Meta, StoryObj } from '@storybook/react'
 import { ArrowRight } from 'phosphor-react'
 

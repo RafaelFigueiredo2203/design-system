@@ -4,10 +4,14 @@
     "packages/*"
   ],
   "scripts": {
-    "dev":"turbo run dev --parallel",
-    "build":"turbo run build"
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build",
+    "changesets":"changeset",
+    "version-packages": "changeset version",
+    "release":"turbo run build --filter=@ignite-ui/docs && changeset publish"
   },
   "devDependencies": {
-    "turbo": "^1.13.3"
+    "turbo": "^1.13.3",
+    "@changesets/cli": "^2.27.5"
   }
 }

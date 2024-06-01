@@ -1,4 +1,4 @@
-import { Box, BoxProps, Text } from '@ignite-ui/react/src'
+import { Box, BoxProps, Text } from '@junior-ui/react/src'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {
