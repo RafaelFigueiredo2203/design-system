@@ -20,7 +20,7 @@ Bem-vindo ao repositório do meu  **Design System**! Este projeto é uma coleç�
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
+- [Acesse este exemplo](https://rafaelfigueiredo2203.github.io/design-system/?path=/story/home--page)
 
 ## Sobre
 
