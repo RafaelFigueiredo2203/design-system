@@ -6,9 +6,8 @@
 
 Bem-vindo ao repositório do meu  **Design System**! Este projeto é uma coleção de componentes reutilizáveis para construir interfaces de usuário consistentes e escaláveis.
 <p align="center">
-  <img src="https://github.com/RafaelFigueiredo2203/design-system/assets/60237326/1955d8df-9ddf-4304-b4cd-1a04e4c6e95c" alt="Design System">
+  <img src="https://github.com/RafaelFigueiredo2203/design-system/assets/60237326/b51a560f-5edb-4448-9eda-68e047f65c54" alt="Design System">
 </p>
-
 
 
 <h>
