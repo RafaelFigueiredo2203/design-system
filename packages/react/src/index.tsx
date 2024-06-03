@@ -15,3 +15,6 @@ export * from './components/TextArea'
 export * from './components/checkBox/index'
 
 export * from './components/multiStep/index'
+
+export * from './styles/index'
+
