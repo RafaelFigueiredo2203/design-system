@@ -11,7 +11,7 @@ export default {
       return (
         <Box
           as="label"
-          css={{ display: 'fex', flexDirection: 'row', gap: '$2' }}
+          css={{ display: 'flex', flexDirection: 'row', gap: '$2' }}
         >
           {Story()}
           <Text size="sm">Except term of use</Text>
