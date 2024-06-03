@@ -23,9 +23,7 @@ jobs:
           cache-dependency-path: '**/package-lock.json'
 
       - run: npm ci
-
-      - run: npm run build
-
+      
       - name: Publish to npm
         id: changesets
         uses: changesets/action@v1
