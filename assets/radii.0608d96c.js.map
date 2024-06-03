@@ -1,0 +1,1 @@
+{"version":3,"file":"radii.0608d96c.js","sources":["../../../tokens/src/radii.ts"],"sourcesContent":["export const radii = {\n  px: '1px',\n  xs: '4px',\n  sm: '6px',\n  md: '8px',\n  lg: '16px',\n  full: '99999px',\n}\n"],"names":["radii"],"mappings":"AAAO,MAAMA,EAAQ,CACnB,GAAI,MACJ,GAAI,MACJ,GAAI,MACJ,GAAI,MACJ,GAAI,OACJ,KAAM,SACR"}
